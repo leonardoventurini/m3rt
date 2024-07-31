@@ -1,6 +1,6 @@
 import React from 'react';
-import { Hello } from './hello.jsx';
-import { Info } from './info.jsx';
+import { Hello } from './hello';
+import { Info } from './info';
 
 export function App() {
   return <div className="p-4 max-w-[900px] mx-auto">

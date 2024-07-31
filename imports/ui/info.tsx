@@ -1,5 +1,5 @@
 import React from 'react';
-import { LinksCollection } from '../api/links';
+import { LinksCollection } from '../models/links';
 import { useFind, useSubscribe } from '@meteor-vite/react-meteor-data';
 
 export function Info() {
