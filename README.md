@@ -1,1 +1,1 @@
-Meteor 3, React and TailwindCSS
+Meteor 3, React and TailwindCSS ☄️ ⚛️ 🌪️
